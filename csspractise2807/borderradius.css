@@ -1,0 +1,98 @@
+input
+{
+ width : 400px;
+ height : 80px;
+ font-style : italic;
+ border-radius : 100px;
+ text-align :center;
+ font-size : 60px;
+ color : gold;
+ box-shadow : 4px 4px 5px blue;
+ text-decoration : overline black 10px double;
+}
+#field
+{
+width : 600px;
+height : 130px;
+background-color : cyan;
+border-radius : 0px 40px 0px 40px;
+}
+#fieldset
+{
+	width : 50%;
+	height:500px;
+	background-color:skyblue;
+	box-shadow:0px 5px 100px red;
+	border-radius:1000px;
+}
+#name
+{
+	font-size:30px;
+	font-style:italic;
+	color:green;
+	font-weight:bold;
+	text-shadow:10px 10px 10px black;
+	
+	text-decoration : overline black 10px double;
+	text-transform : capitalize;
+}
+#adr
+{
+font-family :series;
+text-align :left;
+font-size : 40px;
+background-color :yellow;
+text-transform :uppercase;
+}
+#submit
+{
+width : 250px;
+height : 200px;
+text-transform :lowercase;
+font-weight : bold;
+border-radius :100%;
+}
+#h1
+{
+font-size : 70px;
+text-decoration : underline;
+text-transform : capitalize;
+}
+h2
+{
+font-size: 50px;
+text-decoration : line-through;
+color :purple;
+text-transform : capitalize;
+}
+h3
+{
+font-size : 70px;
+text-decoration : overline;
+color : blue;
+}
+#heading2
+{
+font-size: 50px;
+text-decoration : underline;
+text-decoration-style : wavy;
+text-decoration-color : cyan;
+}
+#heading3
+{
+font-size: 200px;
+text-decoration : underline;
+text-decoration-style : dashed;
+text-decoration-color : blue;
+}
+#heading4
+{
+font-size:100px;
+text-decoration : underline red 20px ;
+}
+#heading5
+{
+font-size: 100px;
+text-decoration : overline black 10px double;
+color : red;
+}

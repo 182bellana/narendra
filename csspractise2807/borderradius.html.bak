@@ -1,0 +1,23 @@
+<html>
+ <head>
+  
+  <title>Css Properties</title>
+  <link rel="stylesheet" href="borderradius.css"></link>
+ </head>
+ <body>
+        <form>
+		<input placeholder="Email-Id"></input>
+
+        </form>
+		<fieldset id="field">
+		<legend id ="adr"> Address</legend>
+		</fieldset>
+		<br></br>
+		<input type="submit" id="submit" ></input>
+		<hr></hr>
+		<hr>
+		<fieldset id = "fieldset">
+		<center><h1>EnterName</h1></center>
+		</fieldset>
+ </body>
+</html>

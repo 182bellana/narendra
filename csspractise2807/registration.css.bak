@@ -1,0 +1,23 @@
+div
+{
+box-shadow : 0px 0px 10px red;
+background-color : cyan;
+width:30%;
+height:500px;
+}
+h1
+{
+text-align:center;
+text-transform:uppercase;
+text-shadow:5px 5px 5px red;
+}
+input
+{
+font-style:italic;
+font-weight:bold;
+font-size:20px;
+text-align:center;
+box-shadow:2px 2px 2px green;
+width:300px;
+height:50px;
+}

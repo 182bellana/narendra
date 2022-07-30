@@ -1,0 +1,37 @@
+
+em
+	{
+	font-size : 70px;
+	background-color : pink;
+	color:red;
+	text-align : center;/*will not work*/
+	float : right;
+	}
+	#heading
+	{
+	color : black;
+	background-color:lime;
+	clear : both;
+	font-size:100px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

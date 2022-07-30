@@ -1,0 +1,27 @@
+<html>
+ <head>
+  <title>Registration</title>
+  <link rel = "stylesheet" href = "registration.css"></link>
+ </head>
+ <body>
+		<form>
+		<div>
+		<h1>REGISTRATION</h1>
+		<br>
+		<table>
+		<tr>
+		<td><label>EnterName</label></td>
+		<td>
+		<input placeholder = "Name" pattern = [a-z]{1,8}></input></td>
+		</tr>
+		<br>
+		<tr>
+		<td>
+		<label>Enter Mobile Number</label></td>
+		<td>
+		<input placeholder = "Enter Mobile" type = "number" pattern = [0-9]{1,9}></input></td>
+		<br>
+		<input type = "submit"></input>
+		</form>
+ </body>
+</html>

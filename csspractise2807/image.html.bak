@@ -1,0 +1,26 @@
+<html>
+ <head>
+
+  <title>Background-image</title>
+  <link rel="stylesheet" href="31-5-22image.css"></link>
+ </head>
+ <body id="fbimage">
+				
+						<form>
+							<fieldset>
+							<legend> Enter Password</legend>
+							<input></input>
+							</fieldset>
+							</form>
+                 
+				 <div id="division">
+				 <strong>Hyper Text Markup Language</strong>
+				 </div>
+				 <div style="width :400px; height :350px; background-color : maroon; float left;">
+				 </div>
+				 <div style="width :250px; height :230px; background-color : cyan; float left; clear: both">
+				 </div>
+
+		                
+ </body>
+</html>

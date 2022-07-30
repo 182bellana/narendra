@@ -1,0 +1,14 @@
+
+div
+{
+ font-weight : normal;
+font-size :50px;
+font-style : italic;
+color : green;
+text-transform :capitalize;
+text-shadow :-5px -5px 20px gold;
+	width : 70%;
+	height :900px;
+	box-shadow :0px 0px 30px lime;
+	text-align :center;
+}

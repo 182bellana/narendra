@@ -1,0 +1,65 @@
+a
+{
+ font-size : 20px;
+ /* to remove underline*/
+ text-decoration : none;
+}
+#d1
+
+{
+width : 700px;
+height : 350px;
+float : left;
+box-shadow :0px 0px 20px blue;
+background-image : radial-gradient(circle,cyan,pink,purple,yellow);
+background-size:100% 300px;
+background-repeat:no-repeat;
+background-position :left 20% bottom 40px; 
+}
+#div3
+{
+width : 60%;
+height : 1000px;
+font-size : 200px;
+float : left;
+background-size:30% 200px;
+background-image :url('priya2.jpeg');
+color : white;
+
+}
+#d2
+{
+border-radius :100%;
+width :400px;
+height :400px;
+float : left;
+background-image :linear-gradient(30deg,cyan 20%,lime,pink);
+text-align :center;
+}
+#form
+{
+float :right;
+width :500px;
+height :500px;
+background-image :radial-gradient(circle,red 40%,black);
+color : red;
+text-shadow :white 0px 0px 30%;
+}
+
+#div4
+{
+  width : 500;
+  height : 500px;
+  float : left;
+  background-image :linear-gradient(lime,red);
+
+}
+#div5
+{
+ width : 400;
+ height : 300px;
+ border-radius :100%;
+  background-color : cyan;
+  box-shadow : 5px 5px 6px violet;
+  float : center;
+}
